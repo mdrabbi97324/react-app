@@ -1,0 +1,17 @@
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 4px;
+  outline: none;
+  border: none;
+}
+
+.btn-primary {
+  background-color: blue;
+  color: white;
+}
+
+.btn-danger {
+  background-color: red;
+  color: white;
+}
