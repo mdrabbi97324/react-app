@@ -1,13 +1,8 @@
 import "./App.css";
-import Button from "./componets/Button";
-import Link from "./componets/Link";
+import Form from "./componets/Form";
 
 function App() {
-  return (
-    <div>
-     <Link onClick={() => console.log("clicked")}/>
-    </div>
-  );
+  return <Form />;
 }
 
 export default App;
